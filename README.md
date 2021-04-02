@@ -1,2 +1,1 @@
-# reading-notes-repository
-Ops 201 Notes
+This is a collection of reading notes from Cyber Security and Computer Operations course at Code Fellows.
